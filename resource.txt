@@ -1,0 +1,5 @@
+https://developer.aliyun.com/article/225149
+
+https://jhooq.com/kubernetes-Jenkins-and-spring-boot/
+
+https://medium.com/@subhasmitadas696/devops-project-ci-cd-jenkins-pipeline-for-kubernetes-fa2ee6c4e6c6
